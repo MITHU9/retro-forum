@@ -1,0 +1,10 @@
+{
+  "name": "retro-forum",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./output/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
