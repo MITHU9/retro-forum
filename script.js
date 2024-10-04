@@ -35,7 +35,7 @@ function getPostTitle(post) {
 
     const card = document.createElement("div");
 
-    card.classList = "flex items-center gap-6 bg-white p-2 rounded-xl";
+    card.classList = "flex items-center gap-6 bg-white p-2 rounded-xl ";
     card.innerHTML = `
     
                 <h2 class="font-bold lg:w-[300px] text-lg text-gray-600">
